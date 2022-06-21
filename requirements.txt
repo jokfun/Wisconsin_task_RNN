@@ -1,4 +1,4 @@
 tqdm==4.31.1
 matplotlib==3.0.2
-numpy==1.16.1
+numpy==1.22.0
 hyperopt==0.1.2
